@@ -57,26 +57,33 @@ Guardamos cambios y levantamos el servicio con ng serve, nos dara un link de nue
 <img width="661" height="244" alt="image" src="https://github.com/user-attachments/assets/a03d1345-424e-4f8c-92e2-60c562295954" />
 
 -----
-# Expanel
+# Expand panel
+<img width="781" height="669" alt="image" src="https://github.com/user-attachments/assets/112c2546-0c3c-47e1-a5c5-7836f7aaae4c" />
 
 -------
 # Buttons
+<img width="856" height="768" alt="image" src="https://github.com/user-attachments/assets/d9578d9c-5c88-4310-9331-fe0413aca1d4" />
 
 -------
-# Dialog
-
+# Dialog Launch 
+<img width="832" height="433" alt="image" src="https://github.com/user-attachments/assets/ff872650-adae-434b-9085-b14bd64edd15" />
 
 -------
-# Input
+# Input gmail
+<img width="551" height="217" alt="image" src="https://github.com/user-attachments/assets/6b7ee73c-f29a-4f24-a7c1-3dbbd98440f4" />
+
 
 ----
 # Button Toggle
+<img width="848" height="251" alt="image" src="https://github.com/user-attachments/assets/d7dd5f1e-c94b-4a1f-992f-77e787601068" />
 
 -----
 # Date Picker
+<img width="787" height="258" alt="image" src="https://github.com/user-attachments/assets/0e29a22c-1255-46a2-969b-0df1e7742e98" />
 
 -------
 # Formfield
+<img width="615" height="255" alt="image" src="https://github.com/user-attachments/assets/183e5218-d14f-4608-9ea9-ab3d266c7e16" />
 
 
 
