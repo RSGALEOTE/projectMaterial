@@ -1,0 +1,72 @@
+h1 {
+    color: lightseagreen;
+    text-align: center;
+    margin-top: 1em;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 40vh;
+    width: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    position: relative;
+}
+
+
+
+
+
+nav table {
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 1em;
+    background: rgba(255,255,255,0.04);
+    border-radius: 16px;
+    box-shadow: 1 4px 24px rgba(0,0,0,0.12);
+}
+
+nav td {
+    text-align: center;
+    padding: 0.5em;
+}
+
+nav td button {
+    width: 100%;
+    min-width: 120px;
+    background: linear-gradient(90deg, #a30fbe 0%, #d954c5 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 0.8em 0.5em;
+    font-size: 1em;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    transition: background 0.3s, transform 0.2s;
+    outline: none;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+nav td button:hover, nav td button:focus {
+    background: linear-gradient(90deg, #0072ff 0%, #00c6ff 100%);
+    transform: translateY(-2px) scale(1.05);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+}
+
+h1 {
+    color: rgb(240, 242, 241);
+    text-align: center;
+    margin-top: 1em;
+    font-size: 2.5em;
+    text-shadow: 2px 2px 4px rgb(46, 42, 42);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
