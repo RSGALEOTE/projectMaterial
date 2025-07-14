@@ -1,59 +1,28 @@
-# ProjectMaterial
+# ProjectMaterial por Galeote Carrera Roman Santiago
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.5.
+En este proyecto se uso los componnentes de Material Angular, se hicieron 15 componenetes a eleccion de los +3o componentes
 
-## Development server
 
-To start a local development server, run:
+# Creacion de un nuevo proyecto
+ng new proyectoMaterial
 
-```bash
-ng serve
-```
+# Creacion de carpeta donde se almacenaran los componentes
+ng generate component components/nombre_del_componete
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+# Proceso (1)
+cosnta de acceder a la pagina oficial de angular Material y con ellos seleccionar el componnete a editar
+se muestra un opcion de code, donde viene un html,css y ts
 
-## Code scaffolding
+# Proceso(2)
+Solo sustituimos el contenido que se encuentra en los archivos creados de nuestro compoinente por lo que tiene la pagina, cuidando los `imports` y el Qcomponent en el ts de nnuestr componente
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+# Proceso(3)
 
-```bash
-ng generate component component-name
-```
+agregamos el import de nuestro componenete al app.ts y la etiqueta a nuestro app.html, se añaden estilo solo para que no se vea tan simple en el app.css
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+# Prueba
+Guardamos cambios y levantamos el servicio con ng serve, nos dara un link de nuestro locahost el cual daremos click 
 
-```bash
-ng generate --help
-```
 
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+------
+# Autocomplete
